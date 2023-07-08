@@ -4,5 +4,53 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Reto/MENU.unity
+    guid: 5f02c97bbbce7074f97738b60f742609
+  - enabled: 0
+    path: Assets/Reto/Splash.unity
+    guid: f19e88debfb459346bfff9ff17d7996a
+  - enabled: 0
+    path: Assets/Reto/Nivel 1.unity
+    guid: 5bc9da7639f4d0f48ad64a2922174a65
+  - enabled: 0
+    path: Assets/Reto/Nivel 2.unity
+    guid: e7d44477a7b089a4ba93f0cb464ca7da
+  - enabled: 0
+    path: Assets/Reto/Nivel 3.unity
+    guid: 5244cea911fbba547993248885b7ce39
+  - enabled: 0
+    path: Assets/Reto/Ayuda.unity
+    guid: 0eb760795d9a4e84991ceeac2897be04
+  - enabled: 0
+    path: Assets/pracitca/menu.unity
+    guid: aa559e2cb804ff342807ddb9d0590714
+  - enabled: 1
+    path: Assets/RETO NUMERO 1/SPLASH.unity
+    guid: e3abab2b5c9b6cc4ea173cf8129b1c14
+  - enabled: 1
+    path: Assets/RETO NUMERO 1/MENU.unity
+    guid: c5f8fc1aa70e3da47b3d6b91025d1b95
+  - enabled: 1
+    path: Assets/RETO NUMERO 1/NIVEL 1.unity
+    guid: e03743a627310b64f83270ae488338ba
+  - enabled: 1
+    path: Assets/RETO NUMERO 1/NIVEL 2.unity
+    guid: e23ec2eb3987b2f4bba3d7d8b923c207
+  - enabled: 1
+    path: Assets/RETO NUMERO 1/NIVEL 3.unity
+    guid: 4b36c0a2ac8b69a43912ac9fa15a3323
+  - enabled: 1
+    path: Assets/RETO NUMERO 1/Ayuda.unity
+    guid: e696a887c008b56428b1a8230a668c50
   m_configObjects: {}

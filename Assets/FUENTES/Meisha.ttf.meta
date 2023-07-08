@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0e9f4c9805749c54dae5d985e6a5038e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Meisha
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4d5cd569e61a4934489a24bcb4bd84b2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
