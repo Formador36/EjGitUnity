@@ -42,6 +42,9 @@ RenderSettings:
 =======
 <<<<<<< HEAD
   m_Sun: {fileID: 0}
+=======
+<<<<<<< HEAD
+  m_Sun: {fileID: 0}
   m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
 =======
   m_Sun: {fileID: 705507994}
@@ -676,6 +679,7 @@ RenderSettings:
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
 >>>>>>> 27d416d86d917e1e11516d98bcd63c62de6f34e0
+>>>>>>> 7726cd870859a87cc44ea795d6614c643583b41f
   m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
@@ -761,6 +765,8 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 =======
 --- !u!1 &705507993
@@ -913,3 +919,4 @@ Transform:
 >>>>>>> 062dcd0d9bd2fda94312ff8891801f6ccd58b399
 >>>>>>> 6d1ac204a360ba42588699b96359a52493f5a99d
 >>>>>>> 27d416d86d917e1e11516d98bcd63c62de6f34e0
+>>>>>>> 7726cd870859a87cc44ea795d6614c643583b41f
